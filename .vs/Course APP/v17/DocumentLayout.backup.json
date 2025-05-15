@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imame\\Desktop\\Course App\\course-asp\\Course APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{804072FF-59EC-4646-97C8-98495B9EE0DC}|Course APP\\Course APP.csproj|c:\\users\\imame\\desktop\\course app\\course-asp\\course app\\course app\\areas\\panel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{804072FF-59EC-4646-97C8-98495B9EE0DC}|Course APP\\Course APP.csproj|solutionrelative:course app\\areas\\panel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804072FF-59EC-4646-97C8-98495B9EE0DC}|Course APP\\Course APP.csproj|c:\\users\\imame\\desktop\\course app\\course-asp\\course app\\course app\\areas\\panel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804072FF-59EC-4646-97C8-98495B9EE0DC}|Course APP\\Course APP.csproj|solutionrelative:course app\\areas\\panel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804072FF-59EC-4646-97C8-98495B9EE0DC}|Course APP\\Course APP.csproj|c:\\users\\imame\\desktop\\course app\\course-asp\\course app\\course app\\areas\\panel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804072FF-59EC-4646-97C8-98495B9EE0DC}|Course APP\\Course APP.csproj|solutionrelative:course app\\areas\\panel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imame\\Desktop\\Course App\\course-asp\\Course APP\\Course APP\\Areas\\panel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Course APP\\Areas\\panel\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imame\\Desktop\\Course App\\course-asp\\Course APP\\Course APP\\Areas\\panel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Course APP\\Areas\\panel\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T19:47:12.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\imame\\Desktop\\Course App\\course-asp\\Course APP\\Course APP\\Areas\\panel\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Course APP\\Areas\\panel\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\imame\\Desktop\\Course App\\course-asp\\Course APP\\Course APP\\Areas\\panel\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Course APP\\Areas\\panel\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:45:41.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\imame\\Desktop\\Course App\\course-asp\\Course APP\\Course APP\\Areas\\panel\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Course APP\\Areas\\panel\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\imame\\Desktop\\Course App\\course-asp\\Course APP\\Course APP\\Areas\\panel\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Course APP\\Areas\\panel\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:36:15.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
